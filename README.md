@@ -1,5 +1,5 @@
 ### Hi there 👋
-<--
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -9,7 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
--->
+
 
 ## Hi 👋, I'm [Ankit Warbhe!](https://ankitwarbhe.github.io) 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitwarbhe&label=Views&color=blue&style=plastic" alt="ankitwarhe" /> </p>
@@ -56,4 +56,4 @@
 </a>
 
 ⭐️ From [Ankit Warbhe](https://github.com/ankitwarbhe)
-
+-->
