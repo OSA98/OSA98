@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-labelledby="t d">
+  <title id="t">Osama Abdelnaser — Product Designer (UI/UX)</title>
+  <desc id="d">Banner on a navy design-canvas grid: the wordmark "osama." inside a selected frame, the line "Product Designer · UI/UX", "complex → simple", and colourful stickers for design systems, Arabic RTL, SaaS, mobile, e-commerce and Salla, Zid and Shopify.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#5B8DFB" stroke-opacity="0.14" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow" cx="78%" cy="35%" r="60%">
+      <stop offset="0" stop-color="#5B8DFB" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#5B8DFB" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="card"><rect width="1280" height="440" rx="28"/></clipPath>
+    <style>
+      .sans { font-family: Inter, "Segoe UI", -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
+      .mono { font-family: "SF Mono", ui-monospace, Menlo, Consolas, "DejaVu Sans Mono", monospace; }
+      .ar   { font-family: "Noto Sans Arabic", "Segoe UI", Tahoma, "Geeza Pro", Arial, sans-serif; }
+    </style>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <!-- canvas -->
+    <rect width="1280" height="440" fill="#17284F"/>
+    <rect width="1280" height="440" fill="url(#grid)"/>
+    <rect width="1280" height="440" fill="url(#glow)"/>
+
+    <!-- selected frame around the wordmark -->
+    <text x="74" y="98" class="sans" font-size="15" font-weight="600" fill="#5B8DFB">Frame 01 — osama.</text>
+    <rect x="72" y="110" width="500" height="170" fill="none" stroke="#5B8DFB" stroke-width="2"/>
+    <g fill="#FFFFFF" stroke="#5B8DFB" stroke-width="2">
+      <rect x="66" y="104" width="12" height="12"/>
+      <rect x="566" y="104" width="12" height="12"/>
+      <rect x="66" y="274" width="12" height="12"/>
+      <rect x="566" y="274" width="12" height="12"/>
+    </g>
+    <text x="96" y="246" class="sans" font-size="150" font-weight="800" letter-spacing="-6" fill="#FFFFFF" textLength="452" lengthAdjust="spacingAndGlyphs">osama<tspan fill="#F8FA55">.</tspan></text>
+    <rect x="276" y="294" width="92" height="24" rx="5" fill="#5B8DFB"/>
+    <text x="322" y="310.5" class="sans" font-size="13" font-weight="600" fill="#FFFFFF" text-anchor="middle">500 × 170</text>
+
+    <!-- title + tagline -->
+    <text x="74" y="366" class="sans" font-size="34" font-weight="700" fill="#FFFFFF">Product Designer · UI/UX</text>
+    <text x="76" y="404" class="mono" font-size="21" fill="#F3D061">complex <tspan fill="#FFFFFF" fill-opacity="0.6">→</tspan> simple<tspan dx="2">_<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/></tspan></text>
+
+    <!-- Arabic name -->
+    <text x="1206" y="72" class="ar" font-size="22" font-weight="600" fill="#FFFFFF" fill-opacity="0.55" text-anchor="end">أسامة عبد الناصر</text>
+
+    <!-- stickers -->
+    <g transform="translate(880 132) rotate(-6)">
+      <rect x="-122" y="-29" width="244" height="58" rx="29" fill="#E43468"/>
+      <text y="8" class="sans" font-size="23" font-weight="700" fill="#FFFFFF" text-anchor="middle">Design systems</text>
+    </g>
+    <g transform="translate(1096 184) rotate(5)">
+      <rect x="-96" y="-29" width="192" height="58" rx="29" fill="#F8FA55"/>
+      <text y="8" class="sans" font-size="23" font-weight="700" fill="#17284F" text-anchor="middle">Arabic RTL</text>
+    </g>
+    <g transform="translate(918 250) rotate(-2)">
+      <rect x="-186" y="-29" width="372" height="58" rx="29" fill="#5B8DFB"/>
+      <text y="8" class="sans" font-size="23" font-weight="700" fill="#FFFFFF" text-anchor="middle">SaaS · Mobile · E-commerce</text>
+    </g>
+    <g transform="translate(1010 326) rotate(4)">
+      <rect x="-146" y="-29" width="292" height="58" rx="29" fill="#F3D061"/>
+      <text y="8" class="sans" font-size="23" font-weight="700" fill="#17284F" text-anchor="middle">Salla · Zid · Shopify</text>
+    </g>
+
+    <!-- multiplayer cursor -->
+    <g transform="translate(1150 262)">
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0; -46 -22; -18 14; 0 0" keyTimes="0;0.35;0.7;1" dur="7s" repeatCount="indefinite"/>
+        <path d="M0 0 L0 27 L7 20 L12.5 31 L17.5 28.6 L12 18 L22 17.5 Z" fill="#E43468" stroke="#FFFFFF" stroke-width="1.6" stroke-linejoin="round"/>
+        <rect x="18" y="30" width="76" height="26" rx="7" fill="#E43468"/>
+        <text x="56" y="48" class="sans" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">Osama</text>
+      </g>
+    </g>
+
+    <!-- location -->
+    <text x="1206" y="404" class="sans" font-size="18" font-weight="500" fill="#FFFFFF" fill-opacity="0.7" text-anchor="end">Cairo · Riyadh · Remote</text>
+  </g>
+</svg>

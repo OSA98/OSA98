@@ -1,89 +1,86 @@
-<!--
-### Hi there 👋
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-
-## Hi 👋, I'm [Ankit Warbhe!](https://ankitwarbhe.github.io) 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitwarbhe&label=Views&color=blue&style=plastic" alt="ankitwarhe" /> </p>
-
-
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
-
- <a href="https://dev.to/ankitwarbhe">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ankit's Dev" width="26"/>
+<a href="https://osama-abdelnaser.com">
+  <img src="./assets/banner.svg" alt="Osama Abdelnaser — Product Designer (UI/UX). Complex → simple." width="100%" />
 </a>
-<a href="https://twitter.com/ankitwarbhe">
-  <img align="left" alt="Ankit Warbhe | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/ankit-warbhe/">
-  <img align="left" alt="Ankit's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/ankit.warbhe/">
-  <img align="left" alt="Ankit's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://devfolio.co/@ankitwarbhe/">
-  <img align="left" alt="Ankit's Devfolio" width="26px" src="https://pbs.twimg.com/profile_images/1212398116101472257/VVvZ_m4A_400x400.png"/>
-</a>
+<br/>
 
+<p align="center">
+  <b>I design digital products that turn complex problems into simple, meaningful experiences.</b><br/>
+  Product Designer (UI/UX) · Cairo &amp; Riyadh · Working remotely
+</p>
 
+<p align="center">
+  <a href="https://osama-abdelnaser.com"><img src="https://img.shields.io/badge/Portfolio-17284F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.behance.net/osamaabdelnaser1"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
+  <a href="https://www.linkedin.com/in/osama-abdelnaser/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn" /></a>
+  <a href="https://www.figma.com/@osamaabdelnaser"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Community" /></a>
+  <a href="https://medium.com/@osamaabdelnaser"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://x.com/OsAAA98"><img src="https://img.shields.io/badge/@OsAAA98-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:osamaabdelnaser18@gmail.com"><img src="https://img.shields.io/badge/Email-E43468?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
+---
 
+### 👋 Hi, I'm Osama
 
-- :telescope: I'm currently studying BTech in CSE 💻;
-- :hourglass_flowing_sand: Learning ML and DL;
-- 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :) ;
-- :man_technologist: B.Tech(Computer Science and Engineering), GHRCE; 
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge";
-- 📫 How to reach me: ankitwarbheofficial@gmail.com;
-- 📝[Resume](https://ankitwarbhe.github.io/cdn/about/Ankit-warbhe-cv.pdf) <br>
+I'm a product designer working on websites, SaaS platforms, mobile apps and e‑commerce stores — with a special focus on **Arabic RTL interfaces** and the **design systems** that keep big products consistent. I care about considered design that can actually be built, so my files are made to be handed off, not just admired.
 
-![](https://img.shields.io/badge/Machine%20Learning-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Core%20Java-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Business%20English-%7C-yellowgreen) ![](https://img.shields.io/badge/SQL-%7C-orange) ![](https://img.shields.io/badge/Cloud%20Developer-%7C-blue)
+### 🧭 How I think
 
-<br><br>
-<a href="https://github.com/ankitwarbhe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitwarbhe&theme=dark">
-</a>
-<a href="https://github.com/ankitwarbhe">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitwarbhe&show_icons=true&theme=dark&line_height=30" alt="Ankit's github stats"/>
-</a>
+| 01 · Understand | 02 · Simplify | 03 · Design systems | 04 · Experience |
+| :-- | :-- | :-- | :-- |
+| Start with the people, the problem and the business goal. | Strip the flow down to what really matters. | Turn decisions into tokens and components that scale. | Ship interfaces that feel calm, clear and consistent. |
 
-⭐️ From [Ankit Warbhe](https://github.com/ankitwarbhe)
--->
+### 🎨 What I design
 
-<div align="center">
-<img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
-<br>
+- 🌐 **Websites & landing pages** — for agencies, software houses and real‑estate brands
+- 📊 **SaaS platforms & dashboards** — complex data, simple screens
+- 📱 **Mobile apps** — marketplaces, rentals and on‑demand delivery
+- 🛍️ **E‑commerce stores** — Salla, Zid and Shopify
+- 🔤 **Arabic RTL design systems** — bilingual products that feel native in both directions
 
-# Hello, world!
-<!--
-#### You can find me on:
-[Linkedin](https://www.linkedin.com/in/soroush-chehresa) - [Stackoverflow](https://stackoverflow.com/users/9516173/soroush-chehresa) - [Medium](https://medium.com/@soroushchehresa) - [Dribbble](https://dribbble.com/soroushchehresa) - [Twitter](https://twitter.com/soroushchehresa) - [Gmail](mailto:s1996ch@gmail.com)
-<br>
-<br>
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=soroushchehresa&show_icons=true" />
-<br>
-<br>
-⭐️ From [soroushchehresa](https://github.com/soroushchehresa) 
-</div>
+### 💼 Experience
 
--->
+- **UI/UX Team Lead** — Serajj · Riyadh, Saudi Arabia
+- **UI/UX Design Instructor** — DECI × EYouth · Egypt
+- **UI/UX Designer (part‑time)** — Moharb · Egypt
 
+### ✨ Selected work
 
+| Project | What it is | |
+| :-- | :-- | :-- |
+| **Abha** | Real‑estate platform | [Case study →](https://www.behance.net/gallery/249086401/Abha-Real-Estate-Platform) |
+| **Anan** | Beauty products e‑commerce store | [Case study →](https://www.behance.net/gallery/247795865/Anan-Beauty-Products-E-commerce-Store) |
+| **Zawaad** | Car marketplace & rental app | [Case study →](https://www.behance.net/gallery/222843233/Zawaad-Car-Marketplace-Rental-App-Design) |
+| **Naffiz** | Freelance marketplace platform | [Case study →](https://www.behance.net/gallery/221527659/Naffiz-Freelance-Marketplace-Platform-Design) |
+| **BugXplore** | Cybersecurity platform | [Case study →](https://www.behance.net/gallery/222756061/BugXplore-Cybersecurity-Platform-Design) |
+| **Halan Hala** | Grocery & meat delivery app | [Case study →](https://www.behance.net/gallery/222755955/Halan-Hala-Grocery-Meat-Delivery-App-Design) |
 
-<h1 align="center">Hi 👋, I'm Osama Abdelnaser</h1>
-<h3 align="center">A passionate frontend developer & UIUX Designer from Egypt</h3>
+More on **[Behance](https://www.behance.net/osamaabdelnaser1)** and **[osama-abdelnaser.com](https://osama-abdelnaser.com)**.
 
+### 🧰 Toolkit
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+**Design** &nbsp;
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+<img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer" />
+<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square" alt="Adobe XD" />
+<img src="https://img.shields.io/badge/Miro-FFD02F?style=flat-square&logo=miro&logoColor=050038" alt="Miro" />
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion" />
 
+**Craft** &nbsp; Research · User flows · Wireframing · Prototyping · Design systems
+
+**I also speak code** &nbsp;
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white" alt="CSS" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+
+### ☕ Off the clock
+
+Photography · Chess · Languages · Voiceover · Reading · Writing · PlayStation · Coffee
+
+---
+
+<p align="center">
+  <b>Got a product that needs to feel simpler?</b><br/>
+  <a href="https://osama-abdelnaser.com/contact">Send me a brief</a> · <a href="mailto:osamaabdelnaser18@gmail.com">osamaabdelnaser18@gmail.com</a>
+</p>
